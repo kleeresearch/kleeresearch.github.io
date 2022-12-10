@@ -2,7 +2,7 @@
 title: "(ENEP410) Environmental Sustainability: Political and Economic Analysis"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/fall02-410/
+permalink: /teaching/2019-fall-teaching-enep410
 venue: "University of Delaware, Public Policy & Administration"
 date: 2019-08-30
 excerpt: "Undergraduate course on the environmental policy issues and challenges."
