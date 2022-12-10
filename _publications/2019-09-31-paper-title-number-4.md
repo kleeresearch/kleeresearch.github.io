@@ -1,4 +1,3 @@
-
 ---
 title: "Development of Kurunegala as a climate smart city"
 collection: Policy Report
