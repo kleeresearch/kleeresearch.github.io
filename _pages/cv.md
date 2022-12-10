@@ -14,6 +14,6 @@ redirect_from:
 If the embedded PDF below does not load, you can <u><a href="https://kleeresearch.github.io/files/kyungmin_cv_fellowship.pdf">download it here.</a></u>
 <br/>
 
-<embed src="https://kleeresearch.github.io/files/kyungmin_cv_20221112_v2.pdf" type="application/pdf" width="100%"/>
+<embed src="https://kleeresearch.github.io/files/kyungmin_cv_fellowship.pdf" type="application/pdf" width="100%" />
 
 
