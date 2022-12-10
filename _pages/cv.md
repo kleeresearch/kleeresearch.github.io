@@ -11,7 +11,7 @@ redirect_from:
 
 {% capture written_label %}'None'{% endcapture %}
 
-If the embedded PDF below does not load, you can <u><a href="https://kleeresearch.github.io/files/kyungmin_cv_20221112_v2.pdf">download it here.</a></u>
+If the embedded PDF below does not load, you can <u><a href="https://kleeresearch.github.io/files/kyungmin_cv_fellowship.pdf">download it here.</a></u>
 <br/>
 
 <embed src="https://kleeresearch.github.io/files/kyungmin_cv_20221112_v2.pdf" type="application/pdf" width="100%" />
