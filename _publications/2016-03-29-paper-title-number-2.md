@@ -15,7 +15,6 @@ Description
 
 [See research description here](https://ecpi.or.kr/research/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjc6ImtleXdvcmQiO3M6OToi7J206rK966%2B8Ijt9&bmode=view&idx=12732798&t=board)
 
-[Download paper here](https://github.com/kleeresearch/kleeresearch.github.io/blob/master/files/refugee.pdf)
 
 Recommended Citations
 ======
