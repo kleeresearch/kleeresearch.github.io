@@ -1,5 +1,5 @@
 ---
-title: "Operational characteristics of residential air conditioners with temporally granular remote thermographic imaging"
+title: "Operational Characteristics of Residential Air Conditioners with Temporally Granular Remote Thermographic Imaging"
 collection: publications
 permalink: /publication/2021-11-17-paper-title-number-5
 excerpt: 'A peer-reviewed article'
