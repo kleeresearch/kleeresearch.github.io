@@ -1,5 +1,5 @@
 ---
-title: "Development of Kurunegala as a climate smart city"
+title: "Development of Kurunegala as a Climate Smart City"
 collection: Policy Report
 permalink: /publication/2019-09-31-paper-title-number-4
 excerpt: 'A policy report for the UN project'
