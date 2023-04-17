@@ -31,10 +31,11 @@ Policy Area
 Methods and Tools of Analysis 
 ------
 * Data Science for Social Good 
-* Machine Learning for Public Policy
+* Machine Learning and Public Policy
 * Computer Vision and Deep Learning for Government 
 * Computational Public Policy
 * Ethics in Data Science and AI
+* Remote Sensing
 * Image Processing 
 
 
