@@ -36,7 +36,7 @@ Methods and Tools of Analysis
 * Computational Public Policy
 * Ethics in Data Science and AI
 * Remote Sensing
-* Image Processing 
+* Image Processing  
 
 
 Dissertation Description
