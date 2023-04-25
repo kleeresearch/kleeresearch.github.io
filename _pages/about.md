@@ -25,7 +25,7 @@ Policy Area
 * Energy and Electricity Policy
 * Global Climate Policy
 * Community Development, and Urban Policy
-* Data-Driven Policy
+* Evidence-Based/Data-Driven Policy
 
 
 Methods and Tools of Analysis 
