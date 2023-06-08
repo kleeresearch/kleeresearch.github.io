@@ -2,7 +2,7 @@
 title: "Operational Characteristics of Residential Air Conditioners with Temporally Granular Remote Thermographic Imaging"
 collection: publications
 permalink: /publication/2021-11-17-paper-title-number-5
-excerpt: 'A peer-reviewed article'
+excerpt: '(A peer-reviewed article) We present a wide-area infrared thermography (IRT) based system for measuring a building's operational characteristics remotely in a non-intrusive and scalable way, and we describe the image capture, processing pipeline, and preliminary results from an initial deployment of this system focusing on the operational characteristics of air-conditioning units.'
 date: 2021-11-17
 venue: 'BuildSys'
 #paperurl: 'https://dl.acm.org/doi/abs/10.1145/3486611.3486659'
