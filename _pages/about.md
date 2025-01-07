@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+** Please note that my website has moved. For the most up-to-date information, please visit: https://sites.google.com/udel.edu/klee
+
 
 Hello! I am Kyungmin Lee, a Ph.D. candidate in [Energy and Environmental Policy](https://www.bidenschool.udel.edu/doctoral-programs/academic-programs/ph-d-in-energy-and-environmental-policy) at the Joseph R. Biden, Jr. School of Public Policy and Administration, University of Delaware. My research interest lies broadly in the area of data-driven policy combining data science, machine learning, and computer vision. I am researching under guidance of [Dr. Gregory Dobler](https://www.bidenschool.udel.edu/people/gdobler) in the [Urban Observatory lab](https://muonetwork.github.io/index.html).
 
